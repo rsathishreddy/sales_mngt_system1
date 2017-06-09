@@ -1,0 +1,2 @@
+shp00010 user0001 2017-06-03 04:11:43 INV00000 ACC ID 	ACC ID sda dsa dsa asd 
+shp00010 user0001 2017-06-03 04:11:43 INV00000 HRW ID 	HRW ID sda dsa dsa asd 
